@@ -319,7 +319,7 @@ Ada Tours、PAM Travel、Турбосс、Signature DMC、Eurotur、Say Hueque �
 - [QA_REPORT.md](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026/blob/main/QA_REPORT.md)
 - [calculate.py](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026/blob/main/calculate.py)
 
-对于具体复杂路线，可以查看 Ada Tours 的[阿根廷与巴塔哥尼亚旅行](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026)。
+对于具体复杂路线，可以查看 Ada Tours 的[阿根廷与巴塔哥尼亚旅行](https://adatours.ru/multi-country/tour/argentina-chile-patagonia-13-days/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026)。
 
 ## 引用
 
